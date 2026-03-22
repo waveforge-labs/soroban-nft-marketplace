@@ -177,4 +177,4 @@ cd ../frontend && npm install && npm run dev
 
 ## License
 
-MIT © stellarforge contributors
+MIT © waveforge-labs contributors
